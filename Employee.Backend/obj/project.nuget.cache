@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Ob1KTcq8e9jLSpCvrEuDMHyTOtJ5EmaJv8GFQ1ikF01yOTxeB3KB3KP9EMbTKfwtSWWFJ3kofWWRe7ddmQNGUA==",
+  "dgSpecHash": "V1TqvbBr/6Rsffz/3QNpFA5BlSFHVC2M5XsN8No/EakHUkH0K5IhYvy++N8KNUaNaebjBkIcauwVZJ6UQWCbBg==",
   "success": true,
   "projectFilePath": "E:\\30-09-2023\\Employee\\Employee.Backend\\Employee.Backend.csproj",
   "expectedPackageFiles": [
@@ -62,6 +62,9 @@
     "C:\\Users\\LAB-202\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
     "C:\\Users\\LAB-202\\.nuget\\packages\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
     "C:\\Users\\LAB-202\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\LAB-202\\.nuget\\packages\\swashbuckle.aspnetcore.annotations\\6.5.0\\swashbuckle.aspnetcore.annotations.6.5.0.nupkg.sha512",
+    "C:\\Users\\LAB-202\\.nuget\\packages\\swashbuckle.aspnetcore.newtonsoft\\6.5.0\\swashbuckle.aspnetcore.newtonsoft.6.5.0.nupkg.sha512",
+    "C:\\Users\\LAB-202\\.nuget\\packages\\swashbuckle.aspnetcore.redoc\\6.5.0\\swashbuckle.aspnetcore.redoc.6.5.0.nupkg.sha512",
     "C:\\Users\\LAB-202\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
     "C:\\Users\\LAB-202\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
     "C:\\Users\\LAB-202\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",

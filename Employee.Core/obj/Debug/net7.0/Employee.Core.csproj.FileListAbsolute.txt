@@ -98,3 +98,28 @@ D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Core\obj\Debug\net7.0\refint\Emp
 D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Core\obj\Debug\net7.0\Employee.Core.pdb
 D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Core\obj\Debug\net7.0\Employee.Core.genruntimeconfig.cache
 D:\sajib\MVC & Api\30-09-2023\Employee\Employee.Core\obj\Debug\net7.0\ref\Employee.Core.dll
+E:\30-09-2023\Employee\Employee.Core\bin\Debug\net7.0\Employee.Core.deps.json
+E:\30-09-2023\Employee\Employee.Core\bin\Debug\net7.0\Employee.Core.runtimeconfig.json
+E:\30-09-2023\Employee\Employee.Core\bin\Debug\net7.0\Employee.Core.dll
+E:\30-09-2023\Employee\Employee.Core\bin\Debug\net7.0\Employee.Core.pdb
+E:\30-09-2023\Employee\Employee.Core\bin\Debug\net7.0\Employee.Infrastructure.dll
+E:\30-09-2023\Employee\Employee.Core\bin\Debug\net7.0\Employee.Model.dll
+E:\30-09-2023\Employee\Employee.Core\bin\Debug\net7.0\Employee.Repository.dll
+E:\30-09-2023\Employee\Employee.Core\bin\Debug\net7.0\Employee.Service.Model.dll
+E:\30-09-2023\Employee\Employee.Core\bin\Debug\net7.0\Employee.Shared.dll
+E:\30-09-2023\Employee\Employee.Core\bin\Debug\net7.0\Employee.Model.pdb
+E:\30-09-2023\Employee\Employee.Core\bin\Debug\net7.0\Employee.Repository.pdb
+E:\30-09-2023\Employee\Employee.Core\bin\Debug\net7.0\Employee.Service.Model.pdb
+E:\30-09-2023\Employee\Employee.Core\bin\Debug\net7.0\Employee.Infrastructure.pdb
+E:\30-09-2023\Employee\Employee.Core\bin\Debug\net7.0\Employee.Shared.pdb
+E:\30-09-2023\Employee\Employee.Core\obj\Debug\net7.0\Employee.Core.csproj.AssemblyReference.cache
+E:\30-09-2023\Employee\Employee.Core\obj\Debug\net7.0\Employee.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\30-09-2023\Employee\Employee.Core\obj\Debug\net7.0\Employee.Core.AssemblyInfoInputs.cache
+E:\30-09-2023\Employee\Employee.Core\obj\Debug\net7.0\Employee.Core.AssemblyInfo.cs
+E:\30-09-2023\Employee\Employee.Core\obj\Debug\net7.0\Employee.Core.csproj.CoreCompileInputs.cache
+E:\30-09-2023\Employee\Employee.Core\obj\Debug\net7.0\Employee.Core.csproj.CopyComplete
+E:\30-09-2023\Employee\Employee.Core\obj\Debug\net7.0\Employee.Core.dll
+E:\30-09-2023\Employee\Employee.Core\obj\Debug\net7.0\refint\Employee.Core.dll
+E:\30-09-2023\Employee\Employee.Core\obj\Debug\net7.0\Employee.Core.pdb
+E:\30-09-2023\Employee\Employee.Core\obj\Debug\net7.0\Employee.Core.genruntimeconfig.cache
+E:\30-09-2023\Employee\Employee.Core\obj\Debug\net7.0\ref\Employee.Core.dll
